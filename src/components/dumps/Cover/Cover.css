@@ -1,0 +1,6 @@
+.Cover {
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    position: relative;
+}

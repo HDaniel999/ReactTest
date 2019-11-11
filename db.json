@@ -1,0 +1,12 @@
+{
+    "programs": [
+        {
+            "id":1, 
+            "name": "FullStack"
+        },
+        {
+            "id":2,
+            "name": "UX"
+        }
+    ]
+}

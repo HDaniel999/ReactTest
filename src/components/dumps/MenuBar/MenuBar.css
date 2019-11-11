@@ -1,0 +1,9 @@
+.MenuBar {
+    background-color: #1e1d23;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-around;
+}

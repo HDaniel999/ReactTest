@@ -1,0 +1,27 @@
+.MenuBarItem {
+    color: white;
+    text-decoration: none; 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    max-height: 100%;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+.MenuBarItem--disabled {
+    color: red;
+    cursor: none;
+}
+
+.MenuBarItem--enabled {
+    color: white;
+    padding: 10px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: border-bottom .4s;
+}
+
+.MenuBarItem--enabled:hover {
+    border-bottom: 5px solid lightblue;
+}
